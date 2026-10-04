@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mahzyar 👋
 
-<!--
-**alipc864-del/alipc864-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Designer & Developer 💻
 
-Here are some ideas to get you started:
+I'm learning web development and building modern, creative websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### 🚀 My Projects
+
+I build websites and small web projects to improve my skills and create my portfolio.
+
+---
+
+⭐ Thanks for visiting my profile!
